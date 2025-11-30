@@ -7,5 +7,6 @@ return {
     ["火箭模拟器"] = "https://github.com/YunLua/Lua/raw/main/火箭模拟器.lua",
     ["自然灾害生存游戏"] = "https://github.com/YunLua/Lua/raw/main/自然灾害生存游戏.lua",
     ["虫脸"] = "https://github.com/YunLua/Lua/raw/main/虫脸.lua",
-    ["动漫明星模拟器"] = "https://github.com/YunLua/Lua/raw/main/动漫模拟器.lua"
+    ["动漫明星模拟器"] = "https://github.com/YunLua/Lua/raw/main/动漫模拟器.lua",
+    ["小猪[测试版]"] = "https://github.com/YunLua/Lua/raw/main/小猪.lua"
 }
