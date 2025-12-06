@@ -15,5 +15,6 @@ return {
     ["在工作申请中存活"] = "https://github.com/YunLua/Lua/raw/main/在工作申请中存活.lua",
     ["夜光[恐怖]"] = "https://github.com/YunLua/Lua/raw/main/夜光[恐怖].lua",
     ["田野之旅Z[Field Trip Z]"] = "https://github.com/YunLua/Lua/raw/main/田野之旅Z.lua",
-    ["巴掌模拟器"] = "https://github.com/YunLua/Lua/raw/main/巴掌模拟器.lua"
+    ["巴掌模拟器"] = "https://github.com/YunLua/Lua/raw/main/巴掌模拟器.lua",
+    ["感染性微笑"] = "https://github.com/YunLua/Lua/raw/main/感染性微笑.lua"
 }
