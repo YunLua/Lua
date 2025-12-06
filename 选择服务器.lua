@@ -11,5 +11,9 @@ return {
     ["蜂群模拟器"] = "https://github.com/YunLua/Lua/raw/main/蜂群模拟器.lua",
     ["SCP角色扮演"] = "https://github.com/YunLua/Lua/raw/main/SCP角色扮演.lua",
     ["小猪"] = "https://github.com/YunLua/Lua/raw/main/小猪.lua",
+    ["闯入(故事)[Break in 1(Story)]"] = "https://github.com/YunLua/Lua/raw/main/Break_in_1(Story).lua",
+    ["在工作申请中存活"] = "https://github.com/YunLua/Lua/raw/main/在工作申请中存活.lua",
+    ["夜光[恐怖]"] = "https://github.com/YunLua/Lua/raw/main/夜光[恐怖].lua",
+    ["田野之旅Z[Field Trip Z]"] = "https://github.com/YunLua/Lua/raw/main/田野之旅Z.lua",
     ["巴掌模拟器"] = "https://github.com/YunLua/Lua/raw/main/巴掌模拟器.lua"
 }
