@@ -11,4 +11,5 @@ return {
     ["蜂群模拟器"] = "https://github.com/YunLua/Lua/raw/main/蜂群模拟器.lua",
     ["SCP角色扮演"] = "https://github.com/YunLua/Lua/raw/main/SCP角色扮演.lua",
     ["小猪"] = "https://github.com/YunLua/Lua/raw/main/小猪.lua"
+    ["巴掌模拟器"] = "https://github.com/YunLua/Lua/raw/main/巴掌模拟器.lua"
 }
