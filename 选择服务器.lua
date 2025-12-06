@@ -17,4 +17,6 @@ return {
     ["田野之旅Z[Field Trip Z]"] = "https://github.com/YunLua/Lua/raw/main/田野之旅Z.lua",
     ["巴掌模拟器"] = "https://github.com/YunLua/Lua/raw/main/巴掌模拟器.lua",
     ["感染性微笑"] = "https://github.com/YunLua/Lua/raw/main/感染性微笑.lua"
+    ["丹迪的世界"] = "https://github.com/YunLua/Lua/raw/main/丹迪的世界.lua"
+    ["鲨口求生2"] = "https://github.com/YunLua/Lua/raw/main/鲨口求生2.lua"
 }
