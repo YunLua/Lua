@@ -9,5 +9,6 @@ return {
     ["虫脸"] = "https://github.com/YunLua/Lua/raw/main/虫脸.lua",
     ["动漫明星模拟器"] = "https://github.com/YunLua/Lua/raw/main/动漫模拟器.lua",
     ["蜂群模拟器"] = "https://github.com/YunLua/Lua/raw/main/蜂群模拟器.lua",
-    ["小猪[测试版]"] = "https://github.com/YunLua/Lua/raw/main/小猪.lua"
+    ["SCP角色扮演"] = "https://github.com/YunLua/Lua/raw/main/SCP角色扮演.lua",
+    ["小猪"] = "https://github.com/YunLua/Lua/raw/main/小猪.lua"
 }
