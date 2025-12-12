@@ -19,4 +19,5 @@ return {
     ["感染性微笑"] = "https://github.com/YunLua/Lua/raw/main/感染性微笑.lua",
     ["丹迪的世界"] = "https://github.com/YunLua/Lua/raw/main/丹迪的世界.lua",
     ["鲨口求生2"] = "https://github.com/YunLua/Lua/raw/main/鲨口求生2.lua"
+    ["杀手VS警长"] = "https://github.com/YunLua/Lua/raw/main/杀手VS警长.lua"
 }
