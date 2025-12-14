@@ -20,5 +20,6 @@ return {
     ["丹迪的世界"] = "https://raw.githubusercontent.com/YunLua/Lua/main/丹迪的世界.lua",
     ["鲨口求生2"] = "https://raw.githubusercontent.com/YunLua/Lua/main/鲨口求生2.lua",
     ["杀手VS警长"] = "https://raw.githubusercontent.com/YunLua/Lua/main/杀手VS警长.lua",
-    ["Fisch"] = "https://raw.githubusercontent.com/YunLua/Lua/main/Fisch.lua"
+    ["Fisch"] = "https://raw.githubusercontent.com/YunLua/Lua/main/Fisch.lua",
+    ["正在寻求"] = "https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/ATM.lua"
 }
