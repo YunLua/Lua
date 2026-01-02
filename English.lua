@@ -1,6 +1,4 @@
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
-local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
-local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
     Title = "云脚本",
@@ -21,7 +19,7 @@ Tabs.Main:AddButton({
     Title = "加载LuaWareUI[silentUI]版本",
     Description = "UI简洁经典，加载快",
     Callback = function()
-        loadstring(game:HttpGet("https://github.com/YunLua/Lua/raw/main/silentUI.luau", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/main/silentUI.luau", true))()
     end
 })
 
