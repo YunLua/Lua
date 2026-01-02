@@ -8,7 +8,7 @@ local Window = Fluent:CreateWindow({
 local Tabs = {
     Main = Window:AddTab({ Title = "请选择UI", Icon = "box" })
 }
-
+do
 Tabs.Main:AddParagraph({
     Title = "反馈",
     Content = "请加入新群号996419273"
@@ -29,3 +29,4 @@ Tabs.Main:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/main/WindUI.luau", true))()
     end
 })
+end
