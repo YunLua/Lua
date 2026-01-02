@@ -31,3 +31,5 @@ Tabs.Main:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/main/WindUI.luau",true))()
     end
 })
+
+Window:SelectTab(1)
