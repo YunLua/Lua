@@ -2,7 +2,6 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 
 local Window = Fluent:CreateWindow({
     Title = "云脚本",
-    Size = UDim2.fromOffset(460, 310),
     Theme = "Darker"
 })
 
@@ -27,6 +26,6 @@ Tabs.Main:AddButton({
     Title = "加载windUI版本",
     Description = "UI好看实用，加载较慢",
     Callback = function()
-        loadstring(game:HttpGet("https://github.com/YunLua/Lua/raw/main/WindUI.luau", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/main/WindUI.luau", true))()
     end
 })
