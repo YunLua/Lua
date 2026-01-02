@@ -1,3 +1,13 @@
+do
+    print = function() end
+    warn  = function() end
+
+    if rconsoleprint then rconsoleprint = function() end end
+    if rconsolewarn  then rconsolewarn  = function() end end
+    if rconsoleerr   then rconsoleerr   = function() end end
+    if rconsoleinfo  then rconsoleinfo  = function() end end
+end
+
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 local Window = Fluent:CreateWindow({
