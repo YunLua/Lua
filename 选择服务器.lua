@@ -23,5 +23,5 @@ return {
     ["Fisch"] = "https://raw.githubusercontent.com/YunLua/Lua/main/Fisch.lua",
     ["正在寻求"] = "https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/ATM.lua",
     ["The Forge"] = "https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/The%20Forge.lua",
-    ["TDS"] = "https://github.com/XiaoYunUwU/UI/raw/main/TDS.lua"
+    ["TDS"] = "https://raw.githubusercontent.com/XiaoYunUwU/UI/main/TDS.lua"
 }
