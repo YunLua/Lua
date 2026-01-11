@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/KFC.lua", true))()
-
 do
     print = function() end
     warn  = function() end
@@ -112,3 +110,5 @@ Tabs.Main:AddButton({
 })
 
 Window:SelectTab(1)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/refs/heads/main/KFC.lua", true))()
