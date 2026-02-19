@@ -16,8 +16,8 @@ end
 )
 local mouse = services.Players.LocalPlayer:GetMouse()
 
-local BACKGROUND_TRANSPARENCY = 0.5
-local TEXT_TRANSPARENCY = 0
+local BACKGROUND_TRANSPARENCY = 0
+local TEXT_TRANSPARENCY = 0.1
 
 function Tween(obj, t, data)
 services.TweenService:Create(obj, TweenInfo.new(t[1], Enum.EasingStyle[t[2]], Enum.EasingDirection[t[3]]), data):Play(
