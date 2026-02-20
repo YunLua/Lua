@@ -11,11 +11,6 @@ local Tabs = {
     Main = Window:AddTab({ Title = "请选择UI", Icon = "box" })
 }
 
-Tabs.Main:AddParagraph({
-    Title = "反馈",
-    Content = "请加入新云脚本群号1083844758"
-})
-
 Tabs.Main:AddButton({
     Title = "加载LuaWareUI[silentUI]版本",
     Description = "UI简洁经典，加载快速\n目前为最新版本",
