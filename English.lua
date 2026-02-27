@@ -13,7 +13,7 @@ local Tabs = {
 
 Tabs.Main:AddButton({
     Title = "加载LuaWareUI[silentUI]版本",
-    Description = "UI简洁经典，加载快速\n目前为最新版本",
+    Description = "UI简洁经典，加载快速\n目前为最新版本\n建议使用新版",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/main/silentUI.luau"))()
     end
@@ -27,7 +27,7 @@ Tabs.Main:AddButton({
 
 Tabs.Main:AddButton({
     Title = "加载windUI版本",
-    Description = "UI好看实用，加载较慢\n目前为旧版本，可能不会再更新",
+    Description = "UI好看实用，加载较慢\n目前为旧版本\n不推荐使用",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/main/WindUI.luau",true))()
     end
