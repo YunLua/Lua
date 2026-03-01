@@ -16,7 +16,7 @@ end
 )
 local mouse = services.Players.LocalPlayer:GetMouse()
 
-local BACKGROUND_TRANSPARENCY = 0.85
+local BACKGROUND_TRANSPARENCY = 0.65
 local TEXT_TRANSPARENCY = 0
 
 function Tween(obj, t, data)
