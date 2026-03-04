@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YunLua/Lua/b11d16040ab2f8f8f8466bac4b099f24dacef867/%E5%B0%8F%E7%8C%AA.lua", true))()
